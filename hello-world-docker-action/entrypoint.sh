@@ -1,3 +1,4 @@
+#!/bin/sh -l
 ls - l /usr/bin
 find /usr/bin -name 'nc'
 ip addr
